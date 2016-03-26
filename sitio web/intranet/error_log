@@ -1,0 +1,1 @@
+[28-Oct-2014 12:08:45 America/Caracas] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/intranet/clientes.php on line 148

@@ -1,0 +1,8 @@
+[28-Oct-2014 12:17:54 America/Caracas] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/validar.php on line 10
+[28-Oct-2014 12:17:54 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edanta/public_html/validar.php:10) in /home/edanta/public_html/validar.php on line 20
+[28-Oct-2014 12:19:53 America/Caracas] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/validar.php on line 10
+[28-Oct-2014 12:19:53 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edanta/public_html/validar.php:10) in /home/edanta/public_html/validar.php on line 20
+[28-Oct-2014 12:20:03 America/Caracas] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/validar.php on line 10
+[28-Oct-2014 12:20:03 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edanta/public_html/validar.php:10) in /home/edanta/public_html/validar.php on line 20
+[28-Oct-2014 12:24:19 America/Caracas] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/registro2.php on line 114
+[28-Oct-2014 12:24:19 America/Caracas] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/edanta/public_html/registro2.php on line 131
